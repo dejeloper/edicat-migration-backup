@@ -1,0 +1,52 @@
+Módulos Master: 8 (Tablas que tienen los mismos datos en todas las 'sucursales')
+- TiposEstados
+- TiposViviendas
+- TiposDocumentos 
+- Estados 
+- Permisos
+- TiposPermisos
+- Perfiles
+- MotivosLlamadas
+_______________________________
+Módulos Negocio: 15 (Tablas que son exclusivas de cada 'sucursal')
+- Vendedores
+- Eventos
+- Productos
+- Tarifas
+
+- Cobradores
+ 
+- Direcciones 
+- Clientes
+
+- Referencias
+- ReferenciasCliente
+
+- Pedidos
+- ProductosPedidos
+
+- PagosProgramados
+- Pagos
+- HistorialPagos
+
+- Devoluciones
+_______________________________
+Módulos Opcionales: 4 (Tablas que obviarse porque no son necesarias para el funcionamiento de la aplicacion)
+- Administradores 
+
+- Usuarios
+- PermisosUsuarios
+
+- Log -> (Yo no la agregaría)
+_______________________________
+Módulos descartables: 6 (Tablas que son calculadas por la aplicacion y los datos no son relevantes)
+
+- ClientesUsuarios
+- LogAccesosDenegados
+- DevolucionLlamadas
+- Llamadas
+- SuperUsuarios
+- ValidacionDeudas 
+_______________________________
+
+Módulos de la aplicacion: 33
