@@ -1,0 +1,33 @@
+Administradores -> Configuracion Interna (No es necesaria)
+Clientes -> Sí
+ClientesUsuarios -> Que usuario ingresa el cliente (????)
+Cobradores -> Datos de los cobradores (????)
+DevolucionLlamadas -> Sí
+Devoluciones -> Sí
+Direcciones -> Sí
+Estados -> Sí (Duda)
+Eventos -> Sí (Duda)
+HistorialPagos -> Sí
+Llamadas -> Sí
+Log -> Acciones de TODOS los clientes y usuarios (????)
+LogAccesosDenegados -> Quien intentó ingresar a lugares que no debía (No es necesaria)
+MotivosLlamadas -> Sí (Duda)
+Pagos -> Sí
+PagosProgramados -> Sí (Duda)
+Pedidos -> Sí
+Perfiles -> Sí (Duda)
+Permisos -> Sí (Duda)
+PermisosUsuarios -> Sí (Duda)
+Productos -> Sí (Duda)
+ProductosPedidos -> Sí (Duda)
+Referencias -> Sí
+ReferenciasCliente -> Sí
+SuperUsuarios -> No es necesaria
+Tarifas -> Sí (Duda)
+TiposDocumentos -> Sí (Duda)
+TiposEstados -> Sí (Duda)
+TiposPermisos -> Sí (Duda)
+TiposViviendas -> Sí (Duda)
+Usuarios -> Sí (Duda)
+ValidacionDeudas -> Validación si el cliente paga (No es necesaria, se autocrea)
+Vendedores -> Sí
